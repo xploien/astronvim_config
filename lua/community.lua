@@ -15,4 +15,5 @@ return {
   { import = "astrocommunity.pack.java" },
   { import = "astrocommunity.code-runner" },
   { import = "astrocommunity.pack.hyprlang" },
+  { import = "astrocommunity.pack.typst" },
 }
