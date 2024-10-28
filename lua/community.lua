@@ -9,11 +9,12 @@ return {
   "AstroNvim/astrocommunity",
   { import = "astrocommunity.pack.lua" },
   -- import/override with your plugins folder
-  { import = "astrocommunity.colorscheme.catppuccin" },
+  { import = "astrocommunity.colorscheme" },
   { import = "astrocommunity.pack.cpp" },
   { import = "astrocommunity.pack.python" },
   { import = "astrocommunity.pack.java" },
   { import = "astrocommunity.code-runner" },
-  { import = "astrocommunity.pack.hyprlang" },
+  -- install not working
+  -- { import = "astrocommunity.pack.hyprlang" },
   { import = "astrocommunity.pack.typst" },
 }
